@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Princesa y Estrellas</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <h1>👑 Princesa y Estrellas ⭐</h1>
+
+    <p id="puntos">Puntos: 0</p>
+
+    <div id="juego">
+
+        <div id="princesa">👸</div>
+
+        <div class="estrella" id="estrella">⭐</div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
